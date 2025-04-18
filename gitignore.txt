@@ -1,0 +1,14 @@
+# Python临时文件
+__pycache__/
+*.py[cod]
+
+# 打包生成文件
+*.spec
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
